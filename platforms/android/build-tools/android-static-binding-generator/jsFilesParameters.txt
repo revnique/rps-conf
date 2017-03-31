@@ -1,0 +1,1 @@
+C:\git\ns\rps-conf\platforms\android\src\main\assets\app\main-page.js
