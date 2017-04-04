@@ -2,7 +2,8 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
     <GridLayout rows="auto,*">
         <!--Header-->
-        <StackLayout>
+        <StackLayout cssClass="page-header">
+            <Label text="Header" cssClass="page-title bold" horizontalAlignment="center" margin="15"/>
         </StackLayout>
         <!--sessions-->
         <GridLayout rows="auto,*">

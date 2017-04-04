@@ -5,7 +5,7 @@ purpose of the file is to pass control to the app’s first module.
 */
 
 import application = require("application");
-
+application.cssFile = "styles/app.css"
 application.start({ moduleName: "pages/main-page/main-page" });
 
 /*
