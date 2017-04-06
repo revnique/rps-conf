@@ -1,0 +1,25 @@
+
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded">
+    <GridLayout rows="auto,*">
+        <!--Header-->
+        <StackLayout cssClass="page-header">
+            <Label text="Header" cssClass="page-title bold" horizontalAlignment="center" margin="15"/>
+        </StackLayout>
+        <!--sessions-->
+        <GridLayout rows="auto,*">
+            <ListView items="{{sessions}}" class="sessions-grid">
+                <ListView.itemTemplate>
+                    <GridLayout columns="auto, *">
+                        <GridLayout columns="auto" rows="auto" cssClass="favourite-wrap">
+                            <Image id="imgFav" stretch="none" cssClass="icon-image" src="res://ic_add_to_fav_1"></Image>
+                        </GridLayout>
+
+                        <StackLayout col="1">
+                        </StackLayout>
+                    </GridLayout>
+
+                </ListView.itemTemplate>
+            </ListView>
+        </GridLayout>
+    </GridLayout>
+</Page>

@@ -1,0 +1,17 @@
+button{
+    background-color: #fdd0cb;
+    width:200px;
+    height: 50px;
+}
+
+.page-header{
+    background-image: url('res://background');
+    background-size: cover;
+}
+.page-title{
+    font-size:14px;
+    color:#fac950;
+}
+.bold{
+    font-weight: bold;
+}

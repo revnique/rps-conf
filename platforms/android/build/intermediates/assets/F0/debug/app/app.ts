@@ -5,8 +5,8 @@ purpose of the file is to pass control to the app’s first module.
 */
 
 import application = require("application");
-
-application.start({ moduleName: "main-page" });
+application.cssFile = "styles/app.css"
+application.start({ moduleName: "pages/main-page/main-page" });
 
 /*
 Do not place any code after the application has been started as it will not
