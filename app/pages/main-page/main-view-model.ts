@@ -1,60 +1,42 @@
 import {Observable} from 'data/observable';
 import {Session} from '../../shared/interfaces';
 import {SessionViewModel} from '../session-page/session-view-model';
+import{SessionsService} from '../../services/sessions-service';
 
 export class MainViewModel extends Observable{
-    private _tempSessions: Array<Session> = new Array<Session>();
     private _allSessions: Array<SessionViewModel> = new Array<SessionViewModel>();
+    private _sessions: Array<SessionViewModel>;
+    private _sessionsService: SessionsService;
 
     constructor(){
         super();
+        this._sessionsService = new SessionsService();
+        this.set('isLoading', true);
     }
     get sessions():Array<SessionViewModel>{
-        return this._allSessions;
+        return this._sessions;
     }
     public init(){
-        var sessionArray: Array<Session> = [
-            {
-                id:'1',
-                title:'session 1',
-                start:'2016-11-11T11:11:11Z',
-                end:'2016-11-11T11:11:11Z',
-                room:'stuff',
-                roomInfo:{
-                    roomId:'room1',
-                    name:'room 1',
-                    url:'',
-                    theme:''
-                },
-                speakers:[],
-                description: 'desc 1',
-                descriptionShort:'short desc 1',
-                calendarEventId:'',
-                isBreak:false
-            },
-            {
-                id:'2',
-                title:'session 2',
-                start:'2016-11-11T11:11:11Z',
-                end:'2016-11-11T11:11:11Z',
-                room:'stuff 2',
-                roomInfo:{
-                    roomId:'room2',
-                    name:'room 2',
-                    url:'',
-                    theme:''
-                },
-                speakers:[],
-                description: 'desc 2',
-                descriptionShort:'short desc 2',
-                calendarEventId:'',
-                isBreak:false
-            }
-        ];
-        for(var i = 0; i < sessionArray.length; i++){
-            //this._tempSessions.push(sessionArray[i]);
-            
-            this._allSessions.push(new SessionViewModel(sessionArray[i]));
+        this._sessionsService.loadSessions<Array<Session>>()
+            .then((result:Array<Session>)=>{
+                this.pushSessions(result);
+                this.onDataLoaded();
+            });
+    }
+    private pushSessions(sessionsFromService:Array<Session>){
+        for(var i = 0; i < sessionsFromService.length; i++){
+            var newSession = new SessionViewModel(sessionsFromService[i]);
+            this._allSessions.push(newSession);
         }
+
+    }
+
+    private onDataLoaded(){
+        this.set('isLoading',false);
+        this.filter();
+    }
+    private filter(){
+        this._sessions = this._allSessions;
+        this.notify({object:this,eventName:Observable.propertyChangeEvent, propertyName: 'sessions', value:this._sessions})
     }
 }

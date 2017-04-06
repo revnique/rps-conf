@@ -10,6 +10,7 @@
     }
   },
   "dependencies": {
+    "faker": "^4.1.0",
     "tns-core-modules": "^2.6.0-2017-02-08-5576"
   },
   "devDependencies": {
