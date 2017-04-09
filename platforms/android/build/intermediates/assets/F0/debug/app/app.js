@@ -1,0 +1,16 @@
+/*
+In NativeScript, the app.js file is the entry point to your application.
+You can use this file to perform app-level initialization, but the primary
+purpose of the file is to pass control to the app’s first module.
+*/
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var application = require("application");
+application.cssFile = "styles/app.css";
+application.start({ moduleName: "pages/session-page/session-page" });
+//application.start({ moduleName: "pages/main-page/main-page" });
+/*
+Do not place any code after the application has been started as it will not
+be executed on iOS.
+*/
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiYXBwLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOzs7O0VBSUU7OztBQUVGLHlDQUE0QztBQUM1QyxXQUFXLENBQUMsT0FBTyxHQUFHLGdCQUFnQixDQUFBO0FBQ3RDLFdBQVcsQ0FBQyxLQUFLLENBQUMsRUFBRSxVQUFVLEVBQUUsaUNBQWlDLEVBQUUsQ0FBQyxDQUFDO0FBQ3JFLGlFQUFpRTtBQUVqRTs7O0VBR0UiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuSW4gTmF0aXZlU2NyaXB0LCB0aGUgYXBwLmpzIGZpbGUgaXMgdGhlIGVudHJ5IHBvaW50IHRvIHlvdXIgYXBwbGljYXRpb24uXG5Zb3UgY2FuIHVzZSB0aGlzIGZpbGUgdG8gcGVyZm9ybSBhcHAtbGV2ZWwgaW5pdGlhbGl6YXRpb24sIGJ1dCB0aGUgcHJpbWFyeVxucHVycG9zZSBvZiB0aGUgZmlsZSBpcyB0byBwYXNzIGNvbnRyb2wgdG8gdGhlIGFwcOKAmXMgZmlyc3QgbW9kdWxlLlxuKi9cblxuaW1wb3J0IGFwcGxpY2F0aW9uID0gcmVxdWlyZShcImFwcGxpY2F0aW9uXCIpO1xuYXBwbGljYXRpb24uY3NzRmlsZSA9IFwic3R5bGVzL2FwcC5jc3NcIlxuYXBwbGljYXRpb24uc3RhcnQoeyBtb2R1bGVOYW1lOiBcInBhZ2VzL3Nlc3Npb24tcGFnZS9zZXNzaW9uLXBhZ2VcIiB9KTtcbi8vYXBwbGljYXRpb24uc3RhcnQoeyBtb2R1bGVOYW1lOiBcInBhZ2VzL21haW4tcGFnZS9tYWluLXBhZ2VcIiB9KTtcblxuLypcbkRvIG5vdCBwbGFjZSBhbnkgY29kZSBhZnRlciB0aGUgYXBwbGljYXRpb24gaGFzIGJlZW4gc3RhcnRlZCBhcyBpdCB3aWxsIG5vdFxuYmUgZXhlY3V0ZWQgb24gaU9TLlxuKi9cbiJdfQ==
