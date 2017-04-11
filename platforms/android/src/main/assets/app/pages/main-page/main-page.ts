@@ -14,7 +14,7 @@ export function pageLoaded(args: EventData){
     vm.init();
 };
 
-export function toggleFavourite(args: GestureEventData){
+export function toggleFavorite(args: GestureEventData){
     var session = <SessionViewModel> args.view.bindingContext;
-    session.toggleFavourite();
+    session.toggleFavorite();
 }
