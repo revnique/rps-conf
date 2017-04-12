@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_f243cb4f9c5e298aed7f213849bfa3e21ea1d3b0.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_fcbd382bb8ef08641386f2144120762b7b0b4bad.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\rpsconf\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\rpsconf-runtime-unspecified_7db1ab1aae40d3a18790069fbfa1f9a26044525b.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_21fbcc91c051d251ffa6c2fa1c792a44a910d06c.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_db898130f88395a63bbc232cd58a2843c9393e48.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_5fb3407bb904f6a467a88caad78fbe36a28cb7a7.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_b27c9bf769d894969932acf7b34e36f8e6f17270.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_773552d668520ee03a696bdddcd5bec053d07802.jar" />
+    </item>
+    <item
+        jar="C:\Users\dharris\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_896641de6153f049833a83d574ff7633196f2c7b.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_95559fd9dbe3fce08b646fa948651b3e78424005.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_e5bbaadc3439d3db9d9c5b3c3305930706a78457.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a8b9d98ad89b1c3721afc753d67c581f43191cb9">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_0a0ca37ae601c932162f2f18d8811a925ce21efb.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_ce8d31f417d1d8bdb9e49145ba6797c0846c1b37.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_78d0f74d7f22cebf819b1fcdd85da26010766f7d.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\rpsconf\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_43900233549f2ac560125c371104b22fba9e9da9.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\git\ns\rps-conf\rps-conf\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_e341c6e1fbc8954360d2d8d748aabc28f033316d.jar" />
+    </item>
+
+</items>

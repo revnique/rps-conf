@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\git\\ns\\rps-conf\\rps-conf\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "C:\\git\\ns\\rps-conf\\rps-conf\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\git\\ns\\rps-conf\\rps-conf\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\git\\ns\\rps-conf\\rps-conf\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\git\\ns\\rps-conf\\rps-conf\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "C:\\git\\ns\\rps-conf\\rps-conf\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    }
+]
