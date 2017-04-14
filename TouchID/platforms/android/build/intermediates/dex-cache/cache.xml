@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.3.1_de55dc987d2215f8660c4861f89860db928e45b2.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.3.1_31d13220a7ab342bc497a02bd4d0401092b4abf7.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/plugindemo/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/plugindemo-runtime-unspecified_b442a552cace602a48a435fc1a981575b4649d52.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.3.1_04859afd4b8e19a8cbc898a15589f62836dc9b0f.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.3.1_4c0fe29c39b36ae2fa0610be79a45a160efd4c50.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.3.1_fb7d7e882bb3d34baff45ae48cd2abec41f9c194.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.3.1_9f4c6ea79ca60876d055ecdf0ce1b13be3d7c6c5.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/plugindemo/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_7f145469df6113d366e01845a1f6d70eb8119d90.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.3.1_07292f5f1b0c0bb5b031d0e40062b0b58675be43.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.3.1_4cc5cedc548577cea3487a4e3ea0c1ec2676467f.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.3.1_426895258b8b36d57c64a64dbd9d1b3f57fb34f7.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.3.1_adc25731e75a3978eae2ccb702c92254820a9b34.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.3.1_9ff26b95d3b4f70facbaf9d30f7b4bf3d7c72ced.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.3.1_c36fcfdd6543f19d4ce33ed4879a616062a8883d.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_5c484e560e8155fe8030d8b54f6bcff91b0afdf2.jar" />
+    </item>
+    <item
+        jar="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/revnique/git/rps-conf/TouchID/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.3.1_de39a8b1406ac1874c664fac9a1c43b9f0713356.jar" />
+    </item>
+
+</items>

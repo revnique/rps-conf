@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-touchid@^2.1.0",
+        "scope": null,
+        "escapedName": "nativescript-touchid",
+        "name": "nativescript-touchid",
+        "rawSpec": "^2.1.0",
+        "spec": ">=2.1.0 <3.0.0",
+        "type": "range"
+      },
+      "/Users/revnique/git/nativescript-touchid-demo/TouchID"
+    ]
+  ],
+  "_from": "nativescript-touchid@>=2.1.0 <3.0.0",
+  "_id": "nativescript-touchid@2.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-touchid",
+  "_nodeVersion": "4.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-touchid-2.1.2.tgz_1480414684264_0.837498398963362"
+  },
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-touchid@^2.1.0",
+    "scope": null,
+    "escapedName": "nativescript-touchid",
+    "name": "nativescript-touchid",
+    "rawSpec": "^2.1.0",
+    "spec": ">=2.1.0 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-touchid/-/nativescript-touchid-2.1.2.tgz",
+  "_shasum": "c8d0424dee3877f9e038b5473a874ba234148160",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-touchid@^2.1.0",
+  "_where": "/Users/revnique/git/nativescript-touchid-demo/TouchID",
+  "author": {
+    "name": "Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com",
+    "url": "http://x-services.nl/"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-touchid/issues"
+  },
+  "dependencies": {},
+  "description": "Deprected, use nativescript-fingerprint-auth from now on (which has Android support!)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c8d0424dee3877f9e038b5473a874ba234148160",
+    "tarball": "https://registry.npmjs.org/nativescript-touchid/-/nativescript-touchid-2.1.2.tgz"
+  },
+  "gitHead": "ac3c1c60eb58a7cb54ad660230055c06cb9dda58",
+  "homepage": "https://github.com/eddyverbruggen/nativescript-touchid",
+  "keywords": [
+    "NativeScript",
+    "ecosystem:nativescript",
+    "TouchID",
+    "Touch ID",
+    "Fingerprint",
+    "Fingerprint scanner"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/eddyverbruggen/nativescript-touchid/blob/master/LICENSE"
+  },
+  "main": "touchid.js",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "name": "nativescript-touchid",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-touchid.git"
+  },
+  "scripts": {},
+  "version": "2.1.2"
+}
