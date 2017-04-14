@@ -1,18 +1,25 @@
 import { Component } from "@angular/core";
+import { User } from "./shared/user/user";
+import { UserService } from "./shared/user/user.service";
 
 @Component({
   selector: "my-app",
-  template: `
-    <StackLayout>
-      <Image src="res://logo_login" stretch="none" horizontalAlignment="center"></Image>
-      <TextField hint="Email Address" keyboardType="email"
-        autocorrect="false" autocapitalizationType="none"></TextField>
-      <TextField hint="Password" secure="true"></TextField>
-
-      <Button text="Sign in" class="submit-button"></Button>
-      <Button text="Sign up for Groceries"></Button>
-    </StackLayout>
-  `,
-  styleUrls: ["pages/login/login-common.css", "pages/login/login.css"]
+  providers: [UserService],
+  templateUrl: "pages/login/login.html",
+  styleUrls: ["pages/login/login-common.css", "pages/login/login.css"],
 })
-export class AppComponent {}
+
+export class AppComponent {
+  user: User;
+  isLoggingIn = true;
+
+  constructor(private userService: UserService) {
+    this.user = new User();
+  }
+  submit() {
+    alert("You’re using: " + this.user.email);
+  }
+  toggleDisplay() {
+    this.isLoggingIn = !this.isLoggingIn;
+  }
+}
