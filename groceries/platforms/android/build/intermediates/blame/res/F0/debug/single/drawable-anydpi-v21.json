@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     }
 ]

@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_action.xml",
-        "source": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+        "merged": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/res/merged/F0/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\git\\ns\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\layout-v21\\notification_action.xml",
+        "source": "c:\\Users\\revnique\\git\\rps-conf\\groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
     }
 ]

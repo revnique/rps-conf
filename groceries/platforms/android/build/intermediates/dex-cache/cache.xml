@@ -2,116 +2,116 @@
 <items version="2" >
 
     <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_894177a4a076d6246aa0626584d5b5db30125b24.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/groceries/runtime/unspecified/jars/libs/binding-generator.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_fcb8dd058b66d927481f0adf2a1e228167ef3e30.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_fa05b8891609d7b9aad1d746feba8b90138875b2.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_d1897d7a4b556c7064476089b78ec30f87cc3f28.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_522ccaf18fac3e238645b9cc0d7835eb51c88288.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_95913f4d0f369c345a475d79fc917636e4916201.jar" />
-    </item>
-    <item
-        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_adc25731e75a3978eae2ccb702c92254820a9b34.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_79b4c0b0288326341ba91102391eb372fbbc7a3e.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_b0aed750673d8a0f31b4e16239a467533add155e.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_2775eb79f25a8389fbfde0a2fb6ea32d722a23fc.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_b3be5d9e329ee5d77fa6ae94d152f9ae39783ca7.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/groceries/runtime/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="632bf39700c28ba66c117628dab343126ef89551">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/groceries-runtime-unspecified_a26f87c3d84fc71b1642b14cf17f6e6286301fa9.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_72acd288247f25c3d70c89de433a604e7d0a4cf0.jar" />
-    </item>
-    <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_74ec82068cbf4a5645657d2d7f520b3bc57ed42f.jar" />
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_97ad47beb61877e01c2726da7b1b3edcb8337dae.jar" />
     </item>
     <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_4bcd2b919b7db3a9d8e1843584303f9708470891.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_988b5f927baaa91817b04cbcfa16569bf1af5571.jar" />
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_928dde5d8d1216a2e2b13713a248a75fb90166f7.jar" />
     </item>
     <item
-        jar="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jar="C:\Users\dharris\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_896641de6153f049833a83d574ff7633196f2c7b.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_86dc6670b5d1d050a0794efb708420572f0f56f5.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_ff92ca3a3611b342c75a4a1a882c7335baa67e82.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_22f59758ef762bd55bb436ee56467968e218d23a.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_c906a537d798940672d5dfc83772f05898ab8e2c.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\groceries\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_626b92b8be6aed8fa6ef33afb584cc1a50c69312.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_3435c3045aded8354f824714a3f33b950f0a03c7.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\groceries\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\groceries-runtime-unspecified_8491198b613bbd0f9cdb1306b1229177136ae1b6.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_a1f961182e535ae7cffbf1bfc9c6d798bd113295.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_1e912dc80634248313e7a69be61607eae4daee13.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_9f0a2ddc2b72e1aebf10104f42d3165ca9999e71.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_c12b24ec5bfa1e1e2f683acd058f5744310494fa.jar" />
+    </item>
+    <item
+        jar="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
         jumboMode="false"
         revision="25.0.2"
         sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/revnique/git/rps-conf/groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_5d0b7f0dee37d0ff6cdb94f733a30b2809eb4066.jar" />
+        <dex dex="C:\git\ns\rps-conf\groceries\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_4c02e4dee0fc8bb7cb6c5b02bbe7363badcc6ec2.jar" />
     </item>
 
 </items>
