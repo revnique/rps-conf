@@ -64,4 +64,7 @@ export class ListComponent implements OnInit {
     let listString = list.join(", ").trim();
     SocialShare.shareText(listString);
   }
+  delete(){
+    console.log("i just deleted " + this.grocery)
+  }
 }
